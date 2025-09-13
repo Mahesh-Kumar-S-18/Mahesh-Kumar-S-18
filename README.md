@@ -23,10 +23,8 @@ Welcome to my little corner of GitHub! I'm a passionate Computer Science student
 
 ### 🌐 Let's Connect!
 
-Connect with me on social media: 
- <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/950e5abf-594d-4d8d-b424-98188cd52e14" />
-https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet
-
+Connect with me on social media:
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://static.vecteezy.com/system/resources/previews/023/986/555/non_2x/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png)' alt='linkedin' height='30'>](https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet/) 
 
 # 💻 Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
