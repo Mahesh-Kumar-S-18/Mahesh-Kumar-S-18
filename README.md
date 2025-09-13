@@ -24,7 +24,9 @@ Welcome to my little corner of GitHub! I'm a passionate Computer Science student
 
 Connect with me on social media:
 <br>
-[<img src='https://cdn.vectorstock.com/i/1000v/04/90/instagram-logo-insta-realistic-social-media-icon-vector-46180490.jpg' alt='linkedin' height='30'>](https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet)
+[<img src='https://cdn.vectorstock.com/i/1000v/04/90/instagram-logo-insta-realistic-social-media-icon-vector-46180490.jpg' alt='insta' height='30'>](https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/mahesh-kumar-s-105435380/)
 
 
 # 💻 Tech Stack:
