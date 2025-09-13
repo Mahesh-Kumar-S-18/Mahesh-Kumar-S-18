@@ -24,7 +24,7 @@ Welcome to my little corner of GitHub! I'm a passionate Computer Science student
 ### 🌐 Let's Connect!
 
 Connect with me on social media:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet)
+[<img src='https://cdn.vectorstock.com/i/1000v/04/90/instagram-logo-insta-realistic-social-media-icon-vector-46180490.jpg' alt='linkedin' height='30'>](https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet)
 
 
 # 💻 Tech Stack:
