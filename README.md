@@ -1,7 +1,32 @@
-# 💫 About Me:
-👋 Hi there! I'm Appu Reddy<br><br>💼 Currently working as a Lab Instructor at Vijaya Vittala Institute of Technology<br>🎓 Completed Diploma in Computer Science & Engineering in 2023<br>👨‍💻 Passionate about technology, coding, and helping students in the lab<br>🎯 Always eager to learn and explore new tools and technologies<br><br>🔗 Let's connect and grow together in the tech world!
+## Hello, World! I'm Mahesh. 👋
 
+Welcome to my little corner of GitHub! I'm a passionate Computer Science student from Bengaluru 🇮🇳, currently in my third year at Cambridge College. I love turning complex problems into simple, beautiful code. My main focus right now is mastering web development, but my dream is to build the apps that will live on your phone's home screen one day.
 
+---
+
+### ⚡ What I'm Up To
+
+* 🎓 Pursuing my B.E. in Computer Science and Engineering (Class of 2027).
+* 🌱 Sharpening my skills in front-end technologies like HTML, CSS, and JavaScript.
+* 🚀 Planning my next big learning adventure into the world of **Mobile App Development**.
+* 👨‍💻 Building simple but fun projects to practice my skills. You can see them pinned below!
+* 💬 Ask me about anything related to coding, sci-fi movies, or the best places for chai in Bengaluru!
+
+---
+
+### 🛠️ My Toolkit
+
+- **Languages:** `JavaScript`, `Python`, `Java`, `C++`
+- **Frontend:** `HTML5`, `CSS3`
+- **Tools:** `Git`, `GitHub`, `VS Code`
+- **Future Interests:** `React Native`, `Flutter`, `Android (Kotlin)`
+
+### 🌐 Let's Connect!
+
+Connect with me on social media: 
+https://www.instagram.com/mahesh_._.mahi/?utm_source=ig_web_button_share_sheet
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/your-profile-url/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/your-username)
 # 💻 Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 # 📊 GitHub Stats:
