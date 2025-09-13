@@ -1,4 +1,4 @@
-## Hello, World! I'm Mahesh. 👋
+## Hello I'm Mahesh. 👋
 
 Welcome to my little corner of GitHub! I'm a passionate Computer Science student from Bengaluru 🇮🇳, currently in my third year at Cambridge College. I love turning complex problems into simple, beautiful code. My main focus right now is mastering web development, but my dream is to build the apps that will live on your phone's home screen one day.
 
