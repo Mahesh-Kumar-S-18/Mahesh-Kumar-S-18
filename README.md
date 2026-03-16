@@ -16,7 +16,7 @@ Welcome to my little corner of GitHub! I'm a passionate Computer Science student
 
 ### 🛠️ My Toolkit
 
-- **Languages:** `PHP`, `Java`, `C++`
+- **Languages:** `Java`
 - **Frontend:** `HTML5`, `CSS3`
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
