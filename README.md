@@ -9,7 +9,7 @@ Welcome to my little corner of GitHub! I'm a passionate Computer Science student
 * 🎓 Pursuing my B.E. in Computer Science and Engineering (Class of 2027).
 * 🌱 Sharpening my skills in front-end technologies like HTML, CSS, and JavaScript.
 * 🚀 Planning my next big learning adventure into the world of **Mobile App Development**.
-* 👨‍💻 Building simple but fun projects to practice my skills. You can see them pinned below!
+* 👨‍💻 Building simple but fun projects to practice my skills.
 * 💬 Ask me about anything related to coding, sci-fi movies, or the best places for chai in Bengaluru!
 
 ---
